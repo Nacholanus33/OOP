@@ -1,5 +1,4 @@
 <?php
-include ("producto.php");
 class Carrito{
   private $idCarrito;
   private $fechaDeCreacion;
